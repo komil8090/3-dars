@@ -1,0 +1,9 @@
+/* universal stil */
+.my-container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.servis img {
+    width: 40%;
+}
